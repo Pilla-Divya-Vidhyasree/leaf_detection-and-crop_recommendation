@@ -72,6 +72,7 @@ body {
 }
 
 .right-button {
+    float:right;
     transform: translateX(100vw);
     animation: slideInRight 1s ease-out forwards;
 }
